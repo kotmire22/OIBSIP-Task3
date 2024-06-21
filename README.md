@@ -1,0 +1,2 @@
+Welcome to the Fraud Detection Project! This repository contains the code and resources for a machine learning-based fraud detection system. The aim of this project is to develop and evaluate models that can effectively identify fraudulent transactions.
+his project focuses on detecting fraudulent transactions using various machine learning algorithms. The main objective is to build a robust model that can accurately distinguish between legitimate and fraudulent transactions, thus helping to prevent financial losses.
